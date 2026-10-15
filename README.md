@@ -15,6 +15,7 @@ A browser-based first-person 3D maze game. Spawn inside a seeded labyrinth, lear
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-67e8f9?logo=tailwindcss&logoColor=0b0e13)](https://tailwindcss.com/)
 
 *No verified public demo URL was found in this repository, so no live link is listed here.*
+*Play Game Here --> https://the-maze-orpin.vercel.app/ *
 
 </div>
 
